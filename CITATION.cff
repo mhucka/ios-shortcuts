@@ -5,13 +5,13 @@ authors:
     given-names: Michael
     email: mhucka@caltech.edu
     orcid: https://orcid.org/0000-0001-9105-5960
-title: Mike's Software Repository Template
-abstract: My repository template for software projects on GitHub
-version: 1.4.0
-date-released: 2024-01-09
-repository-code: "https://github.com/mhucka/template"
+title: "iOS Shortcuts"
+abstract: "Shortcuts for iOS that I've written that I've written for various purposes."
+date-released: 2024-01-12
+repository-code: "https://github.com/mhucka/ios-shortcuts"
 license: MIT
 type: software
 keywords:
-  - template
   - software
+  - iOS
+  - automation

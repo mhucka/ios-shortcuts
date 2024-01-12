@@ -1,12 +1,12 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "SoftwareSourceCode",
-  "name": "Mike's Software Repository Template",
-  "identifier": "template",
-  "description": "My repository template for software projects on GitHub",
-  "version": "1.4.0",
-  "datePublished": "2024-01-09",
-  "dateCreated": "2020-07-11",
+  "name": "iOS Shortcuts",
+  "identifier": "ios-shortcuts",
+  "description": "Collection of iOS Shortcuts that I've written that I've written for various purposes.",
+  "version": "0.0.0",
+  "datePublished": "2024-01-12",
+  "dateCreated": "2024-01-12",
   "author": [
     {
       "@type": "Person",
@@ -47,16 +47,17 @@
     }
   ],
   "copyrightYear": 2024,
-  "license": "https://github.com/mhucka/template/blob/master/LICENSE",
+  "license": "https://github.com/mhucka/ios-shortcuts/blob/master/LICENSE",
   "isAccessibleForFree": true,
-  "url": "",
-  "codeRepository": "https://github.com/mhucka/template",
-  "readme": "https://github.com/mhucka/template/blob/main/README.md",
-  "releaseNotes": "https://github.com/mhucka/template/blob/main/CHANGES.md",
-  "issueTracker": "https://github.com/mhucka/template/issues",
-  "downloadUrl": "https://github.com/mhucka/template/archive/master.zip",
+  "codeRepository": "https://github.com/mhucka/ios-shortcuts",
+  "readme": "https://github.com/mhucka/ios-shortcuts/blob/main/README.md",
+  "releaseNotes": "https://github.com/mhucka/ios-shortcuts/blob/main/CHANGES.md",
+  "issueTracker": "https://github.com/mhucka/ios-shortcuts/issues",
+  "downloadUrl": "https://github.com/mhucka/ios-shortcuts/archive/master.zip",
   "keywords": [
-    "software"
+    "software",
+    "automation",
+    "iOS"
   ],
   "developmentStatus": "active"
 }
